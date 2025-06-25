@@ -146,9 +146,10 @@ Testnet Proof + Mainnet Ready Builds
 Custom Builds Per Client
 
 No Script-Kiddie Level Nonsense – Only Real Smali, Real Frida, Real Web3 Dev, Real Blockchain Engineers
+![photo_2025-06-25_15-42-00](https://github.com/user-attachments/assets/16880f07-165d-4aaa-8c62-7a35e5d37884)
 
 
-![Screenshot (1)](https://github.com/user-attachments/assets/8d224fba-ac0d-4793-ac1b-4c7fd2721c57)
+
 
 
 
